@@ -1,4 +1,4 @@
-# Especificação de Transparência Activa para Entidades Governamentais - Iniciativa MOTA 0.5.0
+# Especificação de Transparência Activa para Entidades Governamentais - Iniciativa MOTA 0.5.1
 
 - **Para español (idioma oficial), vea el archivo [LEYAME.md](LEYAME.md).**
 - For english, see the [README.md](README.md) file.
