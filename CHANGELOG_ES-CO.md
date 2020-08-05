@@ -9,6 +9,13 @@ Este proyecto se adhiere a [Versionado Semántico 2.0.0](http://semver.org/), la
 
 ## No Publicado
 
+
+## [0.5.5] - 2020-08-04
+
+### Cambiado
+- redacción mejorada con revisión de @Daniel Ospina-Celis (pull request 21 )
+- versão cambiada a 0.5.5
+
 ## [0.5.1] - 2020-07-07
 
 ### Reparado

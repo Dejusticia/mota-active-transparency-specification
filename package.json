@@ -1,12 +1,11 @@
 {
   "name": "mota-active-transparency-specification",
-  "version": "0.4.3",
+  "version": "0.5.5",
   "description": "a specification of the obligations and good practices for the publication and disclosure of information on active transparency in Colombia.",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.12"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
