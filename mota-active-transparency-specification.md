@@ -1,4 +1,4 @@
-# MOTA - Especificación de transparencia activa para entidades gubernamentales 0.5.1
+# MOTA - Especificación de transparencia activa para entidades gubernamentales 0.5.6
 Borrador de editores 07 de julio de 2020
 
 Esta versión:
@@ -56,7 +56,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
 
 ## Tabla de contenido
 
-- [MOTA - Especificación de transparencia activa para entidades gubernamentales 0.5.1](#mota---especificación-de-transparencia-activa-para-entidades-gubernamentales-051)
+- [MOTA - Especificación de transparencia activa para entidades gubernamentales 0.5.6](#mota---especificación-de-transparencia-activa-para-entidades-gubernamentales-056)
   - [Abstract](#abstract)
   - [Estado y tipología del documento](#estado-y-tipología-del-documento)
   - [Tabla de contenido](#tabla-de-contenido)
