@@ -80,7 +80,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
     - [3.1 Herramientas para examen de conformidad](#31-herramientas-para-examen-de-conformidad)
       - [WCAG2.1 y Acessibilidad](#wcag21-y-acessibilidad)
   - [4. Términos importantes (vocabulario)](#4-términos-importantes-vocabulario)
-  - [5. Categoría - Disponibilidad de Acceso](#5-categoría---disponibilidad-de-acceso)
+  - [5. Categoría - Disponibilidad de acceso](#5-categoría---disponibilidad-de-acceso)
     - [5.1 Existencia de sitio web](#51-existencia-de-sitio-web)
       - [5.1.1 Criterio de Éxito - Nivel AAA](#511-criterio-de-éxito---nivel-aaa)
     - [5.2 Gratuidad](#52-gratuidad)
@@ -129,7 +129,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
       - [6.4.1. Criterio de Éxito - Nivel A](#641-criterio-de-éxito---nivel-a)
       - [6.4.2. Criterio de Éxito - Nivel AA](#642-criterio-de-éxito---nivel-aa)
       - [6.4.3. Criterio de Éxito - Nivel AAA](#643-criterio-de-éxito---nivel-aaa)
-    - [6.5. Horario de atención al público](#65-horario-de-atención-al-público)
+    - [6.5. Horario de Atención al Público](#65-horario-de-atención-al-público)
       - [6.5.1. Criterio de Éxito - Nivel A](#651-criterio-de-éxito---nivel-a)
       - [6.5.2. Criterio de Éxito - Nivel AA](#652-criterio-de-éxito---nivel-aa)
       - [6.5.3. Criterio de Éxito - Nivel AAA](#653-criterio-de-éxito---nivel-aaa)
@@ -177,7 +177,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
       - [6.16.1. Criterio de Éxito - Nivel A](#6161-criterio-de-éxito---nivel-a)
       - [6.16.2. Criterio de Éxito - Nivel AA](#6162-criterio-de-éxito---nivel-aa)
       - [6.16.3. Criterio de Éxito - Nivel AAA](#6163-criterio-de-éxito---nivel-aaa)
-    - [6.17. Metas y objetivos](#617-metas-y-objetivos)
+    - [6.17. Metas y Objetivos](#617-metas-y-objetivos)
       - [6.17.1. Criterio de Éxito - Nivel A](#6171-criterio-de-éxito---nivel-a)
       - [6.17.2. Criterio de Éxito - Nivel AA](#6172-criterio-de-éxito---nivel-aa)
       - [6.17.3. Criterio de Éxito - Nivel AAA](#6173-criterio-de-éxito---nivel-aaa)
@@ -193,7 +193,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
       - [6.20.1. Criterio de Éxito - Nivel A](#6201-criterio-de-éxito---nivel-a)
       - [6.20.2. Criterio de Éxito - Nivel AA](#6202-criterio-de-éxito---nivel-aa)
       - [6.20.3. Criterio de Éxito - Nivel AAA](#6203-criterio-de-éxito---nivel-aaa)
-  - [7. Información Mínima Obligatoria respecto a Servicios, Procedimientos y Funcionamiento](#7-información-mínima-obligatoria-respecto-a-servicios-procedimientos-y-funcionamiento)
+  - [7. Información mínima obligatoria respecto a servicios, procedimientos y funcionamiento](#7-información-mínima-obligatoria-respecto-a-servicios-procedimientos-y-funcionamiento)
     - [7.1. Servicios](#71-servicios)
       - [7.1.1. Criterio de Éxito - Nivel A](#711-criterio-de-éxito---nivel-a)
       - [7.1.2. Criterio de Éxito - Nivel AA](#712-criterio-de-éxito---nivel-aa)
@@ -239,7 +239,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
         - [7.9.3.1 Criterio de Éxito - Nivel A](#7931-criterio-de-éxito---nivel-a)
         - [7.9.3.2 Criterio de Éxito - Nivel AA](#7932-criterio-de-éxito---nivel-aa)
         - [7.9.3.3 Criterio de Éxito - Nivel AAA](#7933-criterio-de-éxito---nivel-aaa)
-      - [7.9.4 Informes de Auditoría](#794-informes-de-auditoría)
+      - [7.9.4 Informes de auditoría](#794-informes-de-auditoría)
         - [7.9.4.1 Criterio de Éxito - Nivel A](#7941-criterio-de-éxito---nivel-a)
         - [7.9.4.2 Criterio de Éxito - Nivel AA](#7942-criterio-de-éxito---nivel-aa)
         - [7.9.4.3 Criterio de Éxito - Nivel AAA](#7943-criterio-de-éxito---nivel-aaa)
@@ -263,7 +263,7 @@ Aunque esta especificación fue inspirada por el trabajo de grupos como W3C, la 
       - [7.14.1. Criterio de Éxito - Nivel A](#7141-criterio-de-éxito---nivel-a)
       - [7.14.2. Criterio de Éxito - Nivel AA](#7142-criterio-de-éxito---nivel-aa)
       - [7.14.3. Criterio de Éxito - Nivel AAA](#7143-criterio-de-éxito---nivel-aaa)
-  - [8. Instrumentos De Gestión De la Información Pública](#8-instrumentos-de-gestión-de-la-información-pública)
+  - [8. Instrumentos de gestión de la información pública](#8-instrumentos-de-gestión-de-la-información-pública)
     - [8.1. Esquemas de publicación de información](#81-esquemas-de-publicación-de-información)
       - [8.1.1. Criterio de Éxito - Nivel A](#811-criterio-de-éxito---nivel-a)
       - [8.1.2. Criterio de Éxito - Nivel AA](#812-criterio-de-éxito---nivel-aa)
@@ -1657,7 +1657,7 @@ Tipo: OBLIGACIÓN.
 Ley 1712 de 2014, artículo 11, literal g).
 Resolución 3564 de 2015, anexo 1, punto 8.3.
 
-> **Resumen**: El sitio web de la entidad debe contener información de procedimientos y lineamientos de contratación. Preferencialmente en dos formatos: página web y archivos en formato estructurado y abierto.
+> **Resumen:** El sitio web de la entidad debe contener información de procedimientos y lineamientos de contratación. Preferencialmente en dos formatos: página web y archivos en formato estructurado y abierto.
 
 El sitio web del sujeto obligado debe contener información de procedimientos y lineamientos de contratación. Documentos ex-ante (de planeación o tipo manual) que den guía sobre cómo se va a proceder para hacer algo), formulado por la entidad. Puede que el que esté disponible haya sido formulado en una vigencia diferente a la actual. Publicación de documentos que den guía sobre cómo se maneja la contratación en la entidad según cada modalidad. En la mayoría de casos, estos lineamientos se consolidan en un documento llamado "Manual de Contratación".
 
@@ -1680,7 +1680,7 @@ Tipo: OBLIGACIÓN.
 Ley 1712 de 2014, artículo 11, literal g).
 Resolución 3564 de 2015, anexo 1, punto 8.4.
 
-> **Resumen**: El sitio web de la entidad debe contener información de su plan de adquisiciones: proceso de gestión contractual, plan anual de adquisiciones; datos y processos y ejecución de los contratos. Preferencialmente en dos formatos: página web y archivos en formato estructurado y abierto.
+> **Resumen:** El sitio web de la entidad debe contener información de su plan de adquisiciones: proceso de gestión contractual, plan anual de adquisiciones; datos y processos y ejecución de los contratos. Preferencialmente en dos formatos: página web y archivos en formato estructurado y abierto.
 
 El sitio web del sujeto obligado debe ofrecer información de su plan de adquisiciones. El plan debe compreender:
 
